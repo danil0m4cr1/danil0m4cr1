@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Front-End`**
 
-Sou o Danilo Macri, tenho 18 anos, sou técnico em eletroeletrônica e atualmente estou cursando Tecnólogo em Análise e Desenvolvimento de Sistemas no SENAI "Roberto Mange". Sou muito interessado em construir projetos eletrônicos, utilizando tecnologias como Python, C++ e Arduino, e gosto muito de desenvolver páginas web.
+Sou o Danilo Macri, tenho 18 anos, sou técnico em eletroeletrônica e atualmente estou cursando Tecnólogo em Análise e Desenvolvimento de Sistemas no SENAI "Roberto Mange". Sou muito interessado em construir projetos eletrônicos e automações, utilizando tecnologias como Python, C++ e Arduino, e gosto muito de desenvolver páginas web.
 
 ---
 
@@ -10,16 +10,16 @@ Sou o Danilo Macri, tenho 18 anos, sou técnico em eletroeletrônica e atualment
 
 <img 
     align="left" 
-    alt="HTML"
-    title="HTML" 
+    alt="HTML5"
+    title="HTML5" 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
 />
 <img 
     align="left" 
-    alt="CSS" 
-    title="CSS"
+    alt="CSS3" 
+    title="CSS3"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
@@ -47,6 +47,22 @@ Sou o Danilo Macri, tenho 18 anos, sou técnico em eletroeletrônica e atualment
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Linux" 
+    title="Linux"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Figma" 
+    title="Figma"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" 
 />
 
 <br/>
