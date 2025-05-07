@@ -56,15 +56,6 @@ Sou o Danilo Macri, tenho 18 anos, sou técnico em eletroeletrônica e atualment
     style="padding-right: 10px;" 
     src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" 
 />
-<img 
-    align="left" 
-    alt="Figma" 
-    title="Figma"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" 
-/>
-
 <br/>
 <br/>
 
