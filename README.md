@@ -58,6 +58,30 @@ Sou o Danilo Macri, tenho 18 anos, sou técnico em eletroeletrônica e atualment
 />
 <img 
     align="left" 
+    alt="NodeJS" 
+    title="NodeJS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="ReactJS" 
+    title="ReactJS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="TypeScript" 
+    title="TypeScript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" 
+/>
+<img 
+    align="left" 
     alt="Linux" 
     title="Linux"
     width="30px" 
