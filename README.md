@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Front-End`**
 
-Sou o Danilo Macri, tenho 18 anos, sou técnico em eletroeletrônica e atualmente estou cursando Tecnólogo em Análise e Desenvolvimento de Sistemas no SENAI "Roberto Mange". Me interesso muito em construir projetos eletrônicos e automações, utilizando tecnologias como Python, C++ e Arduino, além de gostar muito de Desenvolvimento Web.
+Sou o Danilo Macri, tenho 18 anos, sou técnico em eletroeletrônica e atualmente estou cursando Tecnólogo em Análise e Desenvolvimento de Sistemas no SENAI "Roberto Mange". Desenvolvo projetos eletrônicos e automações, utilizando tecnologias como Python, C++ e Arduino. Gosto de desenvolver aplicações web, utilizando as tecnologias: HTML, CSS, JavaScript, JQuery, ReactJS e NodeJS.
 
 ---
 
