@@ -2,9 +2,9 @@
 
 **`FrontEnd Developer`**
 
-I'm Danilo Macri, I'm 19 years old, I'm a technician in electroelectronics, and I'm currently studying Systems Analysis and Development at SENAI "Roberto Mange." I work on electronic projects and automations using technologies like Python, C++, and Arduino.
-<br>I enjoy developing web applications using technologies like HTML, CSS, JavaScript, JQuery, ReactJS, VueJS, and NodeJS.
-<br>I also like developing mobile apps, using the Dart language.
+I'm Danilo Macri, I'm 19 years old, I'm a technician in electroelectronics, and I'm currently studying Systems Analysis and Development at SENAI "Roberto Mange." I work on electronic projects and automation systems using technologies such as Python, C++, and Arduino.
+<br>I enjoy developing web applications using technologies such as HTML, CSS, JavaScript, JQuery, ReactJS, VueJS, and NodeJS.
+<br>I also enjoy developing mobile apps, using the Dart language.
 
 ---
 
